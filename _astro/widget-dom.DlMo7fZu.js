@@ -1,0 +1,1 @@
+import{g as o}from"./tracker.DNx4_6zs.js";function c(e,n){e.querySelector(n)?.addEventListener("click",()=>{const t=e.dataset.confirmLabel;t&&!window.confirm(t)||o().resetAll()})}function i(e,n,r){for(const t of e.querySelectorAll(n))t.textContent=r}export{i as s,c as w};

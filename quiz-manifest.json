@@ -1,0 +1,740 @@
+{
+  "version": 1,
+  "quizzes": [
+    {
+      "id": "quiz-8e01ed",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Beaks of Birds of Prey",
+      "type": "single",
+      "question": "What kind of beak does an eagle or a hawk have?",
+      "answers": [
+        {
+          "text": "Strong, sharp, and hooked beak for tearing flesh",
+          "correct": true
+        },
+        {
+          "text": "Broad and flat beak with strainers",
+          "correct": false
+        },
+        {
+          "text": "Short, hard, and pointed beak for crushing seeds",
+          "correct": false
+        },
+        {
+          "text": "Long, slender, curved beak for sucking nectar",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Birds of prey like eagles, hawks, and owls have strong, hooked beaks that allow them to catch prey and tear meat easily."
+    },
+    {
+      "id": "quiz-19htk20",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Warmth Feathers",
+      "type": "single",
+      "question": "Which type of feathers are soft, fluffy, and stay close to a bird’s skin to keep its body warm?",
+      "answers": [
+        {
+          "text": "Flight feathers",
+          "correct": false
+        },
+        {
+          "text": "Down feathers",
+          "correct": true
+        },
+        {
+          "text": "Body feathers",
+          "correct": false
+        },
+        {
+          "text": "Tail feathers",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Down feathers are short and fluffy feathers located right next to the bird’s skin. They trap air to keep the bird warm in chilly weather."
+    },
+    {
+      "id": "quiz-1juo1e8",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Swimming Birds",
+      "type": "single",
+      "question": "What special feature helps ducks and swans swim smoothly through water?",
+      "answers": [
+        {
+          "text": "Sharp claws (talons)",
+          "correct": false
+        },
+        {
+          "text": "Webbed feet with skin between their toes",
+          "correct": true
+        },
+        {
+          "text": "Two toes pointing forward and two backward",
+          "correct": false
+        },
+        {
+          "text": "Long legs with spread-out toes for wading",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Ducks have webbed feet where flaps of skin join the three front toes, acting just like paddles or flippers to push through water!"
+    },
+    {
+      "id": "quiz-z8oce2",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Flightless Birds",
+      "type": "multiple",
+      "question": "Which of the following are birds that cannot fly? (Select all that apply)",
+      "answers": [
+        {
+          "text": "Ostrich",
+          "correct": true
+        },
+        {
+          "text": "Penguin",
+          "correct": true
+        },
+        {
+          "text": "Kiwi",
+          "correct": true
+        },
+        {
+          "text": "Sparrow",
+          "correct": false
+        },
+        {
+          "text": "Pigeon",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Ostriches, penguins, and kiwis are flightless birds. Ostriches run fast with strong legs, while penguins use their wings as flippers for swimming."
+    },
+    {
+      "id": "quiz-pst07t",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Steering in Flight",
+      "type": "blank",
+      "question": "The large, strong feathers on a bird’s wings and tail that help it fly and change direction are [[flight]] feathers. Explanation: Flight feathers are long and sturdy. Wing flight feathers provide lift, and tail flight feathers act like a rudder to steer and balance while flying.",
+      "blanks": [
+        "flight"
+      ]
+    },
+    {
+      "id": "quiz-ibne65",
+      "page": "/std-3/general-science/02-birds-feathers-and-beaks/quiz/",
+      "title": "Chisel Beaks",
+      "type": "single",
+      "question": "Which bird uses its chisel-shaped beak to drill holes into tree trunks to catch insects?",
+      "answers": [
+        {
+          "text": "Hummingbird",
+          "correct": false
+        },
+        {
+          "text": "Woodpecker",
+          "correct": true
+        },
+        {
+          "text": "Pelican",
+          "correct": false
+        },
+        {
+          "text": "Parrot",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Woodpeckers have sharp, pointed, chisel-like beaks and strong neck muscles to drill deep into wood to pull out hidden bugs."
+    },
+    {
+      "id": "quiz-189btco",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "Rounding to the Nearest 10",
+      "type": "single",
+      "question": "What is 434343 rounded to the nearest 101010?",
+      "answers": [
+        {
+          "text": "404040",
+          "correct": true
+        },
+        {
+          "text": "454545",
+          "correct": false
+        },
+        {
+          "text": "505050",
+          "correct": false
+        },
+        {
+          "text": "303030",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: In 434343, look at the ones digit (333). Since 3<53 < 53<5, the number stays at the lower ten: 404040."
+    },
+    {
+      "id": "quiz-1upgfc8",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "The Rule of 5",
+      "type": "single",
+      "question": "What is 757575 rounded to the nearest 101010?",
+      "answers": [
+        {
+          "text": "707070",
+          "correct": false
+        },
+        {
+          "text": "808080",
+          "correct": true
+        },
+        {
+          "text": "757575",
+          "correct": false
+        },
+        {
+          "text": "100100100",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: In 757575, the ones digit is 555. The golden rule of rounding says: 5 or more, round up! So 757575 rounds up to 808080."
+    },
+    {
+      "id": "quiz-jsfvtn",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "Numbers that Round to 60",
+      "type": "multiple",
+      "question": "Which of the following numbers round to 606060 when rounded to the nearest 101010? (Select all that apply)",
+      "answers": [
+        {
+          "text": "585858",
+          "correct": true
+        },
+        {
+          "text": "646464",
+          "correct": true
+        },
+        {
+          "text": "555555",
+          "correct": true
+        },
+        {
+          "text": "676767",
+          "correct": false,
+          "feedback": "676767 rounds up to 707070."
+        },
+        {
+          "text": "525252",
+          "correct": false,
+          "feedback": "525252 rounds down to 505050."
+        }
+      ],
+      "explanation": "Explanation: Numbers from 555555 to 646464 all round to 606060 when rounded to the nearest ten!"
+    },
+    {
+      "id": "quiz-1x3dtww",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "Rounding Direction",
+      "type": "blank",
+      "question": "When the deciding digit is 5,6,7,8,5, 6, 7, 8,5,6,7,8, or 999, we always round [[up]]. Explanation: Remember the rhyme: “4 or less, let it rest; 5 or more, raise the score (round up)!”",
+      "blanks": [
+        "up"
+      ]
+    },
+    {
+      "id": "quiz-10itprs",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "Rounding to the Nearest 100",
+      "type": "single",
+      "question": "Round 348348348 to the nearest 100100100:",
+      "answers": [
+        {
+          "text": "400400400",
+          "correct": false
+        },
+        {
+          "text": "300300300",
+          "correct": true
+        },
+        {
+          "text": "350350350",
+          "correct": false
+        },
+        {
+          "text": "340340340",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: To round to the nearest hundred, check the tens digit. In 348348348, the tens digit is 444. Since 4<54 < 54<5, round down to 300300300."
+    },
+    {
+      "id": "quiz-4aangg",
+      "page": "/std-3/mathematics/04-rounding-numbers/quiz/",
+      "title": "Nearest Hundred Challenge",
+      "type": "blank",
+      "question": "Round 850850850 to the nearest hundred: [[900]]. Explanation: In 850850850, the tens digit is 555. Following the rule (5 or more rounds up), 850850850 rounds up to 900900900!",
+      "blanks": [
+        "900"
+      ]
+    },
+    {
+      "id": "quiz-1czc2rm",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Types of Plant Tissues",
+      "type": "single",
+      "question": "Which type of plant tissue consists of actively dividing cells with dense cytoplasm and large nuclei?",
+      "answers": [
+        {
+          "text": "Meristematic tissue",
+          "correct": true
+        },
+        {
+          "text": "Permanent tissue",
+          "correct": false
+        },
+        {
+          "text": "Sclerenchyma tissue",
+          "correct": false
+        },
+        {
+          "text": "Parenchyma tissue",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Meristematic tissue consists of young, actively dividing cells located at growing tips (apical), nodes (intercalary), and girth (lateral). They possess thin cellulose walls, dense cytoplasm, and prominent nuclei with little or no vacuolation."
+    },
+    {
+      "id": "quiz-1a34nzb",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Vascular Tissues in Plants",
+      "type": "single",
+      "question": "Which of the following tissues is responsible for the conduction of water and dissolved minerals from roots to leaves?",
+      "answers": [
+        {
+          "text": "Phloem",
+          "correct": false
+        },
+        {
+          "text": "Xylem",
+          "correct": true
+        },
+        {
+          "text": "Collenchyma",
+          "correct": false
+        },
+        {
+          "text": "Cambium",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Xylem is the complex permanent vascular tissue responsible for unidirectional upward transport of water and mineral salts from the soil to the leaves. Phloem transports synthesized food bidirectionally."
+    },
+    {
+      "id": "quiz-n04ldp",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Components of Xylem",
+      "type": "multiple",
+      "question": "Which of the following elements are present in xylem tissue? (Select all that apply)",
+      "answers": [
+        {
+          "text": "Vessels (Tracheae)",
+          "correct": true
+        },
+        {
+          "text": "Tracheids",
+          "correct": true
+        },
+        {
+          "text": "Sieve tubes",
+          "correct": false
+        },
+        {
+          "text": "Xylem parenchyma",
+          "correct": true
+        },
+        {
+          "text": "Companion cells",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Xylem consists of four elements: Tracheids, Vessels, Xylem parenchyma (only living component), and Xylem fibres. Sieve tubes and companion cells are components of phloem tissue."
+    },
+    {
+      "id": "quiz-t4kmqc",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Nervous System Unit",
+      "type": "blank",
+      "question": "The fundamental structural and functional unit of the nervous system is the [[neuron]]. Explanation: Neurons (nerve cells) consist of a cell body (cyton), dendrites that receive impulses, and a long axon that transmits electrical impulses to other neurons or effector organs.",
+      "blanks": [
+        "neuron"
+      ]
+    },
+    {
+      "id": "quiz-1qysl85",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Connective Tissues",
+      "type": "single",
+      "question": "Which connective tissue connects a muscle to a bone?",
+      "answers": [
+        {
+          "text": "Ligament",
+          "correct": false,
+          "feedback": "Ligaments connect bone to bone."
+        },
+        {
+          "text": "Tendon",
+          "correct": true
+        },
+        {
+          "text": "Cartilage",
+          "correct": false,
+          "feedback": "Cartilage cushions joints and reduces friction."
+        },
+        {
+          "text": "Areolar tissue",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Tendons are tough, inelastic fibrous connective tissues that join skeletal muscles to bones. Ligaments are elastic and join bone to bone at joints."
+    },
+    {
+      "id": "quiz-tze63k",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Fluid Connective Tissue",
+      "type": "single",
+      "question": "Which of the following is a fluid connective tissue that lacks fibres and contains cells suspended in plasma?",
+      "answers": [
+        {
+          "text": "Blood",
+          "correct": true
+        },
+        {
+          "text": "Adipose tissue",
+          "correct": false
+        },
+        {
+          "text": "Areolar tissue",
+          "correct": false
+        },
+        {
+          "text": "Bone",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Blood is a fluid connective tissue composed of liquid matrix (plasma) and formed elements (RBCs, WBCs, and platelets). It circulates oxygen, nutrients, hormones, and metabolic wastes."
+    },
+    {
+      "id": "quiz-eld374",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Muscular Tissue Characteristics",
+      "type": "single",
+      "question": "Which type of muscle tissue is involuntary, branched, and possesses intercalated discs?",
+      "answers": [
+        {
+          "text": "Striated skeletal muscle",
+          "correct": false
+        },
+        {
+          "text": "Smooth visceral muscle",
+          "correct": false
+        },
+        {
+          "text": "Cardiac muscle",
+          "correct": true
+        },
+        {
+          "text": "Voluntary muscle",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Cardiac muscles are found exclusively in the heart wall. They are involuntary, cylindrical, branched, and contract rhythmically without fatigue throughout life."
+    },
+    {
+      "id": "quiz-1p0hit8",
+      "page": "/std-7/biology/01-plant-and-animal-tissues/quiz/",
+      "title": "Sclerenchyma Cell Walls",
+      "type": "blank",
+      "question": "Dead plant cells with walls heavily thickened by [[lignin]] provide mechanical strength to plant parts. Explanation: Sclerenchyma cells are dead at maturity and possess uniform, heavily lignified secondary cell walls providing rigidity, mechanical support, and tensile strength (e.g., coconut husk, walnut shells).",
+      "blanks": [
+        "lignin"
+      ]
+    },
+    {
+      "id": "quiz-1m2m4tz",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Kinetic Theory of Matter",
+      "type": "single",
+      "question": "According to the Kinetic Molecular Theory of Matter, which state of matter has the maximum intermolecular space and minimum intermolecular force of attraction?",
+      "answers": [
+        {
+          "text": "Solid state",
+          "correct": false
+        },
+        {
+          "text": "Liquid state",
+          "correct": false
+        },
+        {
+          "text": "Gaseous state",
+          "correct": true
+        },
+        {
+          "text": "Plasma state",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: In gases, molecules are situated far apart from each other, resulting in very large intermolecular spaces and negligible intermolecular forces of attraction. This allows gas molecules to move freely in all directions."
+    },
+    {
+      "id": "quiz-1q9aqbv",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Sublimating Substances",
+      "type": "multiple",
+      "question": "Which of the following substances change directly from a solid into a gas without passing through the liquid state upon heating? (Select all that apply)",
+      "answers": [
+        {
+          "text": "Camphor",
+          "correct": true
+        },
+        {
+          "text": "Ammonium chloride",
+          "correct": true
+        },
+        {
+          "text": "Common salt (Sodium chloride)",
+          "correct": false
+        },
+        {
+          "text": "Iodine",
+          "correct": true
+        },
+        {
+          "text": "Sugar",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Camphor, ammonium chloride, iodine, and dry ice (solid CO2\\text{CO}_2CO2​) sublime when heated. Common salt and sugar do not sublime; they melt or decompose upon heating."
+    },
+    {
+      "id": "quiz-ppaptq",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Random Motion of Particles",
+      "type": "blank",
+      "question": "The continuous, random, zigzag motion of suspended particles in a liquid or gas is known as [[Brownian]] motion. Explanation: Discovered by botanist Robert Brown in 1827, Brownian motion provides direct visual evidence that molecules in fluids are in constant, continuous, and rapid random motion.",
+      "blanks": [
+        "Brownian"
+      ]
+    },
+    {
+      "id": "quiz-m2palw",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Properties of Liquids",
+      "type": "single",
+      "question": "Which property correctly describes a liquid?",
+      "answers": [
+        {
+          "text": "Definite shape and definite volume",
+          "correct": false
+        },
+        {
+          "text": "Definite volume but no definite shape",
+          "correct": true
+        },
+        {
+          "text": "No definite shape and no definite volume",
+          "correct": false
+        },
+        {
+          "text": "High rigidity and incompressibility",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Liquids have a definite volume because their intermolecular attraction is strong enough to keep molecules together, but no definite shape because molecules can slide past one another to take the shape of the container."
+    },
+    {
+      "id": "quiz-1qe02zq",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Constant Temperature During Boiling",
+      "type": "blank",
+      "question": "The temperature at which a liquid changes into vapor throughout its volume at normal atmospheric pressure is called its [[boiling]] point. Explanation: During boiling, the heat supplied is consumed as latent heat of vaporization to overcome intermolecular forces between molecules, keeping the temperature constant until the entire liquid converts into vapor.",
+      "blanks": [
+        "boiling"
+      ]
+    },
+    {
+      "id": "quiz-ynepxf",
+      "page": "/std-7/chemistry/01-matter-and-composition/quiz/",
+      "title": "Rigidity and Compressibility",
+      "type": "single",
+      "question": "Why are solids practically incompressible?",
+      "answers": [
+        {
+          "text": "Intermolecular spaces are negligible and molecules are closely packed.",
+          "correct": true
+        },
+        {
+          "text": "Solids have very low densities.",
+          "correct": false
+        },
+        {
+          "text": "Kinetic energy of solid molecules is very high.",
+          "correct": false
+        },
+        {
+          "text": "Intermolecular forces are completely absent.",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: In solids, constituent particles are closely packed with strong electrostatic forces and almost negligible intermolecular spaces, making it impossible to push the particles closer together under ordinary pressure."
+    },
+    {
+      "id": "quiz-5zp3i",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "SI Unit of Density",
+      "type": "single",
+      "question": "What is the standard SI unit of density?",
+      "answers": [
+        {
+          "text": "g/cm3\\text{g/cm}^3g/cm3",
+          "correct": false,
+          "feedback": "g/cm3\\text{g/cm}^3g/cm3 is the CGS unit of density."
+        },
+        {
+          "text": "kg/m3\\text{kg/m}^3kg/m3",
+          "correct": true
+        },
+        {
+          "text": "kg/cm3\\text{kg/cm}^3kg/cm3",
+          "correct": false
+        },
+        {
+          "text": "g/m3\\text{g/m}^3g/m3",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: In the SI system, mass is measured in kilograms (kg\\text{kg}kg) and volume in cubic metres (m3\\text{m}^3m3). Therefore, Density=MassVolume=kg/m3\\text{Density} = \\frac{\\text{Mass}}{\\text{Volume}} = \\text{kg/m}^3Density=VolumeMass​=kg/m3."
+    },
+    {
+      "id": "quiz-1cce08q",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Unit Conversion for Density",
+      "type": "single",
+      "question": "How many kg/m3\\text{kg/m}^3kg/m3 are equivalent to 1 g/cm31\\text{ g/cm}^31 g/cm3?",
+      "answers": [
+        {
+          "text": "10 kg/m310\\text{ kg/m}^310 kg/m3",
+          "correct": false
+        },
+        {
+          "text": "100 kg/m3100\\text{ kg/m}^3100 kg/m3",
+          "correct": false
+        },
+        {
+          "text": "1000 kg/m31000\\text{ kg/m}^31000 kg/m3",
+          "correct": true
+        },
+        {
+          "text": "0.001 kg/m30.001\\text{ kg/m}^30.001 kg/m3",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: 1 g/cm3=10−3 kg(10−2 m)3=10−3 kg10−6 m3=1000 kg/m31\\text{ g/cm}^3 = \\frac{10^{-3}\\text{ kg}}{(10^{-2}\\text{ m})^3} = \\frac{10^{-3}\\text{ kg}}{10^{-6}\\text{ m}^3} = 1000\\text{ kg/m}^31 g/cm3=(10−2 m)310−3 kg​=10−6 m310−3 kg​=1000 kg/m3 To convert g/cm3\\text{g/cm}^3g/cm3 to kg/m3\\text{kg/m}^3kg/m3, multiply by 100010001000."
+    },
+    {
+      "id": "quiz-7y1gqb",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Properties of Relative Density",
+      "type": "multiple",
+      "question": "Which of the following statements about Relative Density (R.D.) are correct? (Select all that apply)",
+      "answers": [
+        {
+          "text": "It is the ratio of the density of a substance to the density of water at 4∘C4^\\circ\\text{C}4∘C.",
+          "correct": true
+        },
+        {
+          "text": "It has no units because it is a ratio of two identical quantities.",
+          "correct": true
+        },
+        {
+          "text": "The numerical value of R.D. is equal to the density of the substance in g/cm3\\text{g/cm}^3g/cm3.",
+          "correct": true
+        },
+        {
+          "text": "The numerical value of R.D. is equal to the density of the substance in kg/m3\\text{kg/m}^3kg/m3.",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Relative Density is a pure ratio ρsubstanceρwater at 4∘C\\frac{\\rho_{\\text{substance}}}{\\rho_{\\text{water at } 4^\\circ\\text{C}}}ρwater at 4∘C​ρsubstance​​. Since the density of water at 4∘C4^\\circ\\text{C}4∘C is 1 g/cm31\\text{ g/cm}^31 g/cm3, the numerical value in CGS equals the relative density, with no units."
+    },
+    {
+      "id": "quiz-gia3m3",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Density of Water",
+      "type": "blank",
+      "question": "Water reaches its maximum density of 1 g/cm31\\text{ g/cm}^31 g/cm3 at a temperature of [[4]] degrees Celsius. Explanation: Due to the anomalous expansion of water, water contracts as it is heated from 0∘C0^\\circ\\text{C}0∘C to 4∘C4^\\circ\\text{C}4∘C, reaching its minimum volume and maximum density (1000 kg/m31000\\text{ kg/m}^31000 kg/m3 or 1 g/cm31\\text{ g/cm}^31 g/cm3) at 4∘C4^\\circ\\text{C}4∘C.",
+      "blanks": [
+        "4"
+      ]
+    },
+    {
+      "id": "quiz-1typ5e2",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Density Calculation",
+      "type": "single",
+      "question": "A metal block has a mass of 316 g316\\text{ g}316 g and a volume of 40 cm340\\text{ cm}^340 cm3. What is the density of the metal?",
+      "answers": [
+        {
+          "text": "7.9 g/cm37.9\\text{ g/cm}^37.9 g/cm3",
+          "correct": true
+        },
+        {
+          "text": "8.5 g/cm38.5\\text{ g/cm}^38.5 g/cm3",
+          "correct": false
+        },
+        {
+          "text": "12.64 g/cm312.64\\text{ g/cm}^312.64 g/cm3",
+          "correct": false
+        },
+        {
+          "text": "790 g/cm3790\\text{ g/cm}^3790 g/cm3",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: Density=MassVolume=316 g40 cm3=7.9 g/cm3\\text{Density} = \\frac{\\text{Mass}}{\\text{Volume}} = \\frac{316\\text{ g}}{40\\text{ cm}^3} = 7.9\\text{ g/cm}^3Density=VolumeMass​=40 cm3316 g​=7.9 g/cm3 In SI units, this equals 7.9×1000=7900 kg/m37.9 \\times 1000 = 7900\\text{ kg/m}^37.9×1000=7900 kg/m3."
+    },
+    {
+      "id": "quiz-tc229k",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Measuring Liquid Density",
+      "type": "blank",
+      "question": "An instrument designed to measure the relative density of liquids directly without weighing is a [[hydrometer]]. Explanation: A hydrometer operates on Archimedes’ principle and the law of floatation. It sinks deeper in lighter liquids and floats higher in denser liquids, directly reading specific gravity on its stem scale.",
+      "blanks": [
+        "hydrometer"
+      ]
+    },
+    {
+      "id": "quiz-z647cb",
+      "page": "/std-7/physics/01-physical-quantities-measurement/quiz/",
+      "title": "Measuring Irregular Solids",
+      "type": "single",
+      "question": "Which piece of laboratory apparatus is specially designed with a spout to measure the volume of an irregular solid by liquid displacement?",
+      "answers": [
+        {
+          "text": "Conical flask",
+          "correct": false
+        },
+        {
+          "text": "Pipette",
+          "correct": false
+        },
+        {
+          "text": "Eureka can (Overflow can)",
+          "correct": true
+        },
+        {
+          "text": "Burette",
+          "correct": false
+        }
+      ],
+      "explanation": "Explanation: A Eureka can (or overflow can) is filled with water up to its side spout. When an irregular solid is gently lowered into the can, an equal volume of water overflows through the spout into a graduated measuring cylinder."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{d as e}from"./tracker.DNx4_6zs.js";import{w as t}from"./widget-dom.DlMo7fZu.js";class n extends HTMLElement{connectedCallback(){t(this,".sl-quiz-intro-reset")}}function s(){typeof customElements<"u"&&!customElements.get(e)&&customElements.define(e,n)}s();
