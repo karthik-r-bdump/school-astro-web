@@ -1,0 +1,95 @@
+---
+title: "Interactive Quiz: Physical Quantities & Measurement"
+description: "Interactive practice quiz with instant feedback on ICSE Class 7 Physics Chapter 1: Physical Quantities and Measurement."
+draft: false
+---
+
+import { Quiz, QuizResults } from 'starlight-quiz/components';
+
+Test your understanding of volume, density, and relative density with this interactive quiz. Answer each question to receive immediate feedback and step-by-step solutions.
+
+---
+
+<Quiz title="SI Unit of Density" autoNumber>
+What is the standard SI unit of density?
+
+- [ ] $\text{g/cm}^3$
+  > $\text{g/cm}^3$ is the CGS unit of density.
+- [x] $\text{kg/m}^3$
+- [ ] $\text{kg/cm}^3$
+- [ ] $\text{g/m}^3$
+
+**Explanation:** In the SI system, mass is measured in kilograms ($\text{kg}$) and volume in cubic metres ($\text{m}^3$). Therefore, $\text{Density} = \frac{\text{Mass}}{\text{Volume}} = \text{kg/m}^3$.
+</Quiz>
+
+<Quiz title="Unit Conversion for Density" autoNumber>
+How many $\text{kg/m}^3$ are equivalent to $1\text{ g/cm}^3$?
+
+- [ ] $10\text{ kg/m}^3$
+- [ ] $100\text{ kg/m}^3$
+- [x] $1000\text{ kg/m}^3$
+- [ ] $0.001\text{ kg/m}^3$
+
+**Explanation:** 
+$$
+1\text{ g/cm}^3 = \frac{10^{-3}\text{ kg}}{(10^{-2}\text{ m})^3} = \frac{10^{-3}\text{ kg}}{10^{-6}\text{ m}^3} = 1000\text{ kg/m}^3
+$$
+To convert $\text{g/cm}^3$ to $\text{kg/m}^3$, multiply by $1000$.
+</Quiz>
+
+<Quiz title="Properties of Relative Density" autoNumber>
+Which of the following statements about Relative Density (R.D.) are correct? (Select all that apply)
+
+- [x] It is the ratio of the density of a substance to the density of water at $4^\circ\text{C}$.
+- [x] It has no units because it is a ratio of two identical quantities.
+- [x] The numerical value of R.D. is equal to the density of the substance in $\text{g/cm}^3$.
+- [ ] The numerical value of R.D. is equal to the density of the substance in $\text{kg/m}^3$.
+
+**Explanation:** Relative Density is a pure ratio $\frac{\rho_{\text{substance}}}{\rho_{\text{water at } 4^\circ\text{C}}}$. Since the density of water at $4^\circ\text{C}$ is $1\text{ g/cm}^3$, the numerical value in CGS equals the relative density, with no units.
+</Quiz>
+
+<Quiz title="Density of Water" autoNumber>
+Water reaches its maximum density of $1\text{ g/cm}^3$ at a temperature of [[4]] degrees Celsius.
+
+**Explanation:** Due to the anomalous expansion of water, water contracts as it is heated from $0^\circ\text{C}$ to $4^\circ\text{C}$, reaching its minimum volume and maximum density ($1000\text{ kg/m}^3$ or $1\text{ g/cm}^3$) at $4^\circ\text{C}$.
+</Quiz>
+
+<Quiz title="Density Calculation" autoNumber>
+A metal block has a mass of $316\text{ g}$ and a volume of $40\text{ cm}^3$. What is the density of the metal?
+
+- [x] $7.9\text{ g/cm}^3$
+- [ ] $8.5\text{ g/cm}^3$
+- [ ] $12.64\text{ g/cm}^3$
+- [ ] $790\text{ g/cm}^3$
+
+**Explanation:**
+$$
+\text{Density} = \frac{\text{Mass}}{\text{Volume}} = \frac{316\text{ g}}{40\text{ cm}^3} = 7.9\text{ g/cm}^3
+$$
+In SI units, this equals $7.9 \times 1000 = 7900\text{ kg/m}^3$.
+</Quiz>
+
+<Quiz title="Measuring Liquid Density" autoNumber>
+An instrument designed to measure the relative density of liquids directly without weighing is a [[hydrometer]].
+
+**Explanation:** A hydrometer operates on Archimedes' principle and the law of floatation. It sinks deeper in lighter liquids and floats higher in denser liquids, directly reading specific gravity on its stem scale.
+</Quiz>
+
+<Quiz title="Measuring Irregular Solids" autoNumber>
+Which piece of laboratory apparatus is specially designed with a spout to measure the volume of an irregular solid by liquid displacement?
+
+- [ ] Conical flask
+- [ ] Pipette
+- [x] Eureka can (Overflow can)
+- [ ] Burette
+
+**Explanation:** A Eureka can (or overflow can) is filled with water up to its side spout. When an irregular solid is gently lowered into the can, an equal volume of water overflows through the spout into a graduated measuring cylinder.
+</Quiz>
+
+---
+
+## Quiz Summary & Score
+
+Review your total score and performance across all questions below:
+
+<QuizResults confetti />

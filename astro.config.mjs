@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightQuiz from 'starlight-quiz';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
@@ -10,6 +11,7 @@ export default defineConfig({
     starlight({
       title: 'ICSE Home Schooling Portal',
       description: 'Comprehensive ICSE curriculum, chapter notes, question banks, and solutions for Std 7 and Std 3.',
+      plugins: [starlightQuiz()],
       social: {
         github: 'https://github.com/karthik-r-bdump/school-astro-web',
       },
@@ -38,6 +40,7 @@ export default defineConfig({
                     { label: 'Study Notes', link: '/std-7/biology/01-plant-and-animal-tissues/notes/' },
                     { label: 'Questions Only', link: '/std-7/biology/01-plant-and-animal-tissues/questions/' },
                     { label: 'Answers & Marking Scheme', link: '/std-7/biology/01-plant-and-animal-tissues/answers/' },
+                    { label: 'Interactive Quiz', link: '/std-7/biology/01-plant-and-animal-tissues/quiz/' },
                   ],
                 },
                 {
@@ -84,6 +87,7 @@ export default defineConfig({
                     { label: 'Study Notes', link: '/std-7/chemistry/01-matter-and-composition/notes/' },
                     { label: 'Questions Only', link: '/std-7/chemistry/01-matter-and-composition/questions/' },
                     { label: 'Answers & Marking Scheme', link: '/std-7/chemistry/01-matter-and-composition/answers/' },
+                    { label: 'Interactive Quiz', link: '/std-7/chemistry/01-matter-and-composition/quiz/' },
                   ],
                 },
                 {
@@ -114,6 +118,7 @@ export default defineConfig({
                     { label: 'Study Notes', link: '/std-7/physics/01-physical-quantities-measurement/notes/' },
                     { label: 'Questions Only', link: '/std-7/physics/01-physical-quantities-measurement/questions/' },
                     { label: 'Answers & Marking Scheme', link: '/std-7/physics/01-physical-quantities-measurement/answers/' },
+                    { label: 'Interactive Quiz', link: '/std-7/physics/01-physical-quantities-measurement/quiz/' },
                   ],
                 },
                 {
@@ -291,6 +296,7 @@ export default defineConfig({
                     { label: 'Study Notes', link: '/std-3/mathematics/04-rounding-numbers/notes/' },
                     { label: 'Questions Only', link: '/std-3/mathematics/04-rounding-numbers/questions/' },
                     { label: 'Answers & Solutions', link: '/std-3/mathematics/04-rounding-numbers/answers/' },
+                    { label: 'Interactive Quiz', link: '/std-3/mathematics/04-rounding-numbers/quiz/' },
                   ],
                 },
                 {
@@ -313,6 +319,7 @@ export default defineConfig({
                     { label: 'Study Notes', link: '/std-3/general-science/02-birds-feathers-and-beaks/notes/' },
                     { label: 'Questions Only', link: '/std-3/general-science/02-birds-feathers-and-beaks/questions/' },
                     { label: 'Answers & Solutions', link: '/std-3/general-science/02-birds-feathers-and-beaks/answers/' },
+                    { label: 'Interactive Quiz', link: '/std-3/general-science/02-birds-feathers-and-beaks/quiz/' },
                   ],
                 },
                 {

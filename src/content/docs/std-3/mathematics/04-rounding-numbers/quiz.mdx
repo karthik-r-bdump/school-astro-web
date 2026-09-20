@@ -1,0 +1,78 @@
+---
+title: "Interactive Quiz: Rounding Numbers"
+description: "Fun, interactive practice quiz on rounding numbers to the nearest 10 and nearest 100 for ICSE Class 3 Mathematics."
+draft: false
+---
+
+import { Quiz, QuizResults } from 'starlight-quiz/components';
+
+Welcome to the Rounding Mountain Quiz! Test your skills rounding numbers to the nearest 10 and 100.
+
+---
+
+<Quiz title="Rounding to the Nearest 10" autoNumber>
+What is $43$ rounded to the nearest $10$?
+
+- [x] $40$
+- [ ] $45$
+- [ ] $50$
+- [ ] $30$
+
+**Explanation:** In $43$, look at the ones digit ($3$). Since $3 < 5$, the number stays at the lower ten: **$40$**.
+</Quiz>
+
+<Quiz title="The Rule of 5" autoNumber>
+What is $75$ rounded to the nearest $10$?
+
+- [ ] $70$
+- [x] $80$
+- [ ] $75$
+- [ ] $100$
+
+**Explanation:** In $75$, the ones digit is $5$. The golden rule of rounding says: **5 or more, round up!** So $75$ rounds up to **$80$**.
+</Quiz>
+
+<Quiz title="Numbers that Round to 60" autoNumber>
+Which of the following numbers round to $60$ when rounded to the nearest $10$? (Select all that apply)
+
+- [x] $58$
+- [x] $64$
+- [x] $55$
+- [ ] $67$
+  > $67$ rounds up to $70$.
+- [ ] $52$
+  > $52$ rounds down to $50$.
+
+**Explanation:** Numbers from $55$ to $64$ all round to **$60$** when rounded to the nearest ten!
+</Quiz>
+
+<Quiz title="Rounding Direction" autoNumber>
+When the deciding digit is $5, 6, 7, 8,$ or $9$, we always round [[up]].
+
+**Explanation:** Remember the rhyme: *"4 or less, let it rest; 5 or more, raise the score (round up)!"*
+</Quiz>
+
+<Quiz title="Rounding to the Nearest 100" autoNumber>
+Round $348$ to the nearest $100$:
+
+- [ ] $400$
+- [x] $300$
+- [ ] $350$
+- [ ] $340$
+
+**Explanation:** To round to the nearest hundred, check the **tens** digit. In $348$, the tens digit is $4$. Since $4 < 5$, round down to **$300$**.
+</Quiz>
+
+<Quiz title="Nearest Hundred Challenge" autoNumber>
+Round $850$ to the nearest hundred: [[900]].
+
+**Explanation:** In $850$, the tens digit is $5$. Following the rule (5 or more rounds up), $850$ rounds up to **$900$**!
+</Quiz>
+
+---
+
+## Your Score & Badges
+
+Check your score and see how well you climbed the rounding hill!
+
+<QuizResults confetti />

@@ -18,6 +18,7 @@
     "katex": "^0.16.21",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
+    "starlight-quiz": "^1.0.2",
     "typescript": "^5.7.3"
   },
   "devDependencies": {
