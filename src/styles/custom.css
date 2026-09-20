@@ -1,0 +1,55 @@
+/* Custom styles for ICSE School Astro Web */
+@import 'katex/dist/katex.min.css';
+
+:root {
+  --sl-color-accent-low: #e0f2fe;
+  --sl-color-accent: #0284c7;
+  --sl-color-accent-high: #0369a1;
+  --sl-font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low: #0c2d48;
+  --sl-color-accent: #38bdf8;
+  --sl-color-accent-high: #bae6fd;
+}
+
+/* Print styling for question sheets */
+@media print {
+  header, nav, aside, .pagination, footer, .sl-sidebar, .right-sidebar {
+    display: none !important;
+  }
+  main {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 1cm !important;
+    font-size: 12pt !important;
+    color: #000 !important;
+    background: #fff !important;
+  }
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  table, pre, blockquote {
+    page-break-inside: avoid;
+  }
+}
+
+/* Callout & badge styles */
+.badge-std3 {
+  background-color: #10b981;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.badge-std7 {
+  background-color: #6366f1;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
